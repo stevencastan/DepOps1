@@ -6,4 +6,4 @@ jobs:
       steps:
         - run:  ls 
 
-        -run: pwd
+        - run: pwd
